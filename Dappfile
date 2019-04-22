@@ -1,0 +1,6 @@
+name            token
+description     test token
+version         K99
+
+author          Jake Song<jake.s@onther.io>
+license         Apache-2.0
